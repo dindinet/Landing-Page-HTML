@@ -30,17 +30,15 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
 }
+.home-image {
+  width: 100px;
+  object-fit: cover;
+}
 .home-left-side {
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: center;
-}
-.home-image {
-  width: 50px;
-  align-self: center;
-  object-fit: cover;
-  margin-right: var(--dl-space-space-doubleunit);
 }
 .home-burger-menu {
   display: none;
