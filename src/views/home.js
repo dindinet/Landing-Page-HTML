@@ -16,7 +16,7 @@ const Home = (props) => {
         <div className="home-navbar">
           <img
             alt="image"
-            src="/playground_assets/nana-200h.png"
+            src="https://res.cloudinary.com/dklongley/image/upload/w_100,h_59/platano.png"
             className="home-image"
           />
           <div className="home-container1">
